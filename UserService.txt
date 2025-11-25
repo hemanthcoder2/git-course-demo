@@ -1,2 +1,4 @@
 Take input from user
 Process the data
+
+--create an avatar
